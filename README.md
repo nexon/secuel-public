@@ -1,4 +1,3 @@
-@@ -0,0 +1,174 @@
 # Secuel - Public Feedback & Issue Tracker
 
 <div align="center">
