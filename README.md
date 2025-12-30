@@ -9,7 +9,7 @@
 
 **Modern Database Management for macOS**
 
-[Website](https://secuel.com) • [Download](https://secuel.com/#download) • [Pricing](https://secuel.com/pricing.html)
+[Website](https://secuel.dev) • [Download](https://secuel.dev/#download) • [Pricing](https://secuel.dev/pricing.html)
 
 </div>
 
@@ -108,16 +108,16 @@ Secuel is currently in **active beta development**. This means:
 - **Secure credentials**: Stored in macOS Keychain
 - **No external servers**: Direct connection to your databases only
 
-For more details, see our [Privacy Policy](https://secuel.com/privacy.html).
+For more details, see our [Privacy Policy](https://secuel.dev/privacy.html).
 
 ## 📚 Resources
 
-- **Website**: [secuel.com](https://secuel.com)
-- **Download**: [Latest Beta](https://secuel.com/#download)
-- **Pricing**: [Support Development](https://secuel.com/pricing.html)
-- **Privacy Policy**: [secuel.com/privacy.html](https://secuel.com/privacy.html)
-- **Terms of Service**: [secuel.com/terms.html](https://secuel.com/terms.html)
-- **Refund Policy**: [secuel.com/refund.html](https://secuel.com/refund.html)
+- **Website**: [secuel.dev](https://secuel.dev)
+- **Download**: [Latest Beta](https://secuel.dev/#download)
+- **Pricing**: [Support Development](https://secuel.dev/pricing.html)
+- **Privacy Policy**: [Privacy Policy](https://secuel.dev/privacy.html)
+- **Terms of Service**: [ToS](https://secuel.dev/terms.html)
+- **Refund Policy**: [Refund Policy](https://secuel.dev/refund.html)
 
 ## 💬 Community Guidelines
 
@@ -154,7 +154,7 @@ Your feedback helps shape our priorities!
 If you find Secuel useful, please consider:
 
 - ⭐ **Starring this repository**
-- 💰 **Purchasing a support license** ([$10 one-time](https://secuel.com/pricing.html))
+- 💰 **Purchasing a support license** ([$10 one-time](https://secuel.dev/pricing.html))
 - 📢 **Sharing with others** who might benefit
 - 🐛 **Reporting bugs** to help improve the app
 - 💡 **Suggesting features** to make it better
